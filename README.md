@@ -1,5 +1,5 @@
 # LX-Gui
-- Simple C++ Graphical Interface using DirectX
+- Simple C++ Graphical Interface using D3D9
 # In Development
 - Checkboxes
 - Sliders

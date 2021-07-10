@@ -1,2 +1,3 @@
 # LX-Gui
-Simple C++ Graphical Interface using DirectX
+- Simple C++ Graphical Interface using DirectX
+# In Development
